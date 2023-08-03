@@ -46,6 +46,6 @@ release/
 .vscode/
 
 #dataset
-dataset/asteroid_dataset
+dataset/asteroid_dataset/withils
 .DS_Store
 
